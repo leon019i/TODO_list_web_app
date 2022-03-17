@@ -1,0 +1,17 @@
+body {
+  background-color: #0e185f;
+  text-align: center;
+}
+.card {
+  background-color: #2fa4ff;
+}
+.none {
+  display: none;
+}
+.block {
+  display: block;
+}
+.checked {
+  text-decoration: line-through;
+  background-color: green;
+}
